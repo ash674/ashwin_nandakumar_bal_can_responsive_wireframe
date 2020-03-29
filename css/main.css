@@ -1,3 +1,8 @@
+@font-face {
+font-family: "Omnes";
+src: url("../fonts/Omnes.ttf");
+}
+
 
 .container {
 	max-width: 1000px;
